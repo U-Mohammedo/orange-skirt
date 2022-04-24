@@ -1,0 +1,5 @@
+what i need is use javascript to make the images in the shop page when clicked on, pop up like a modal box, with other images but only visible when clicked on.
+
+-------------------------------------------------------------------------------------------------
+
+make a form validation for payments
